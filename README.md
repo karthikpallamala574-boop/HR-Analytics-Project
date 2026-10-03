@@ -91,7 +91,7 @@ between male and female employees.
 ![image alt](https://github.com/karthikpallamala574-boop/HR-Analytics-Project/blob/694f202b8def2d0ef52e52481b29683a575b2d8a/Power%20Bi%20HR%20Analysis%20Dashboard.png)
 
 ### Tableau Dashboard
-[Add screenshot]
+![image alt](https://github.com/karthikpallamala574-boop/HR-Analytics-Project/blob/bf86c14e2357c071def45fcbf5366b309affecdf/Tableau%20HR%20Analysis%20Dashboard.jpg)
 
 ## 🧹 Data Challenges
 
