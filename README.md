@@ -85,7 +85,7 @@ between male and female employees.
 ## 📈 Dashboards
 
 ### Excel Dashboard
-[Add screenshot]
+![image alt](https://github.com/karthikpallamala574-boop/HR-Analytics-Project/blob/aa0c338cfc1e3009cebd6ece2746c22c584ce67e/HR%20Analysis%20Dashboard.jpg)
 
 ### Power BI Dashboard
 [Add screenshot]
